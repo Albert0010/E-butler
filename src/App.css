@@ -341,11 +341,6 @@ main {
   -ms-border-radius: 3px;
   -webkit-transition: all ease 0.3s;
   -ms-transition: all ease 0.3s; 
-
-
-
-
-  
   transition: all ease 0.3s;
 }
 .above-footer {
