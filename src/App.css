@@ -360,6 +360,7 @@ main {
 .above-footer-main-div > a {
   font-size: 70%;
   color: white !important;
+  font-family: "Roboto", sans-serif;
 }
 .img-div-soc {
   display: flex;
